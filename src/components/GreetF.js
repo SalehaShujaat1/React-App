@@ -5,4 +5,5 @@ const GreetFunctionalComponent = () => <h2>Welcome to Functional Comp: Stateless
 
 //default imports
 // A few more changes
+
 export default GreetFunctionalComponent;
