@@ -12,7 +12,7 @@ function App() {
     //     Here is the Latest React version: <strong>{React.version}</strong>
     // </h1>
     <div className="App">
-      <Users title="User listing"></Users>
+      <Users ></Users>
       <WelcomeClassComponent/>
       <GreetFunctionalComponent/>
     </div>
